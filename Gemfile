@@ -11,6 +11,7 @@ gem 'omniauth'
 gem 'omniauth-google-oauth2'
 gem 'omniauth-facebook'
 gem 'pry'
+gem 'puma'
 group :development, :test do
   gem 'byebug'
 end
